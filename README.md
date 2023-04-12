@@ -1,5 +1,6 @@
 # Graham Doerksen, EIT, MSc
 
+---
 # Experience
 
 ## Software Developer
@@ -28,6 +29,7 @@ May 2021 – August 2022
 - Designed and built a technology demonstration for the Microsoft Industry Experience Center
 - Python, SQL, C, C++, C#, DevOps, Github
 
+---
 
 # Projects
 
@@ -47,6 +49,8 @@ May 2021 – August 2022
 - Allows researchers to test model generalizability
 - See the dataset [here](https://universe.roboflow.com/roboflow-100/halo-infinite-angel-videogame)!
 
+---
+
 # Community
 
 ## PyData Calgary Organizer
@@ -65,16 +69,23 @@ May 2021 – August 2022
 - Puzzles involve cryptography, mapping, software development and data science analysis
 - Analagous to a cybersecurity CTF event with geocaching elements
 
+---
 # Education
 
-## Master of Science in Mechanical Engineering, Cumulative GPA 3.9/4.0, May 2021 
-## Bachelor of Science in Mechanical Engineering, Cumulative GPA 3.7/4.0, April 2017
+## Master of Science in Mechanical Engineering , May 2021  
 **Schulich School of Engineering, University of Calgary**  
+Cumulative GPA 3.9/4.0
+
+## Bachelor of Science in Mechanical Engineering, , April 2017
+**Schulich School of Engineering, University of Calgary**  
+Cumulative GPA 3.7/4.0
 - Founding member of the UCalgary rocket lab; Built, designed and flew three rocket vehicles 
 - Completed computational fluid dynamics simulations of incompressible confined jets
 - Used python pandas, numpy, scipy, and matplotlib to automatically process 3D simulation data into useable research results.
 - Academic and community service scholarships totaling over $65,000
 - Designed and maintained [UCalgary Aerospace website](https://www.ucalgary.ca/aerospace/home)
+
+---
 
 # Publications
 - M. Cairo, G. Doerksen, B. Eldaphonse, J. Günther, N. Kummer, J. Maret-zki, G. Mohaar, P. Mousavi, S. Murphy, L. Petrich, Sahir, J. Sheikh, T. Syed,and M. E. Taylor, Bevin Eldaphonse, Payam Mousavi, Sahir, Sheikh Jubair,Matthew E. Taylor∗, Graham Doerksen, Nikolai Kummer, Jordan Maret-zki, Gurpreet Mohaar, Sean Murphy, Johannes Günther†, Laura Petrich,and Talat Syed. 2023. **Multi-Robot Warehouse Optimization: Leveraging Machine Learning for Improved Performance.** *InProc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems* (AAMAS2023), London, United Kingdom, May 29 – June 2, 2023, IFAAMAS, 3 pages
@@ -82,6 +93,8 @@ May 2021 – August 2022
 - Hill C., Doerksen, G., Quinn, D., & Johansen, C. (2021). **Development of a Paraffin/Nitrous Oxide Hybrid Rocket Motor for Flight-based Testing.** *In International Journal of Energetic Materials and Chemical Propulsion.*
 - Messinger, T., Hill, C., Quinn, D., Stannard, D., Doerksen, G., & Johansen, C. (2019). **Development and Test Flight of The Atlantis I Nitrous Oxide/Paraffin-based Hybrid Rocket.** *In AIAA Propulsion and Energy 2019 Forum* (p. 4011).
 - Hill, C., Doerksen, G., Stannard, D., Hinman, W. S., Quinn, D., & Johansen, C. (2018). **Development and Testing of a 4.4-kN Paraffin-based Hybrid Rocket Motor and Test Facility.** *In 2018 Joint Propulsion Conference* (p. 4837).
+
+---
 
 # Interests
 

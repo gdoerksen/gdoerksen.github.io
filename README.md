@@ -72,11 +72,11 @@ May 2021 – August 2022
 ---
 # Education
 
-## Master of Science in Mechanical Engineering , May 2021  
+## Master of Science in Mechanical Engineering 2021  
 **Schulich School of Engineering, University of Calgary**  
 Cumulative GPA 3.9/4.0
 
-## Bachelor of Science in Mechanical Engineering, , April 2017
+## Bachelor of Science in Mechanical Engineering 2017
 **Schulich School of Engineering, University of Calgary**  
 Cumulative GPA 3.7/4.0
 - Founding member of the UCalgary rocket lab; Built, designed and flew three rocket vehicles 

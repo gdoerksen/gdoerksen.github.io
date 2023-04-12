@@ -88,7 +88,7 @@ Cumulative GPA 3.7/4.0
 ---
 
 # Publications
-- M. Cairo, G. Doerksen, B. Eldaphonse, J. Günther, N. Kummer, J. Maret-zki, G. Mohaar, P. Mousavi, S. Murphy, L. Petrich, Sahir, J. Sheikh, T. Syed,and M. E. Taylor, Bevin Eldaphonse, Payam Mousavi, Sahir, Sheikh Jubair,Matthew E. Taylor∗, Graham Doerksen, Nikolai Kummer, Jordan Maret-zki, Gurpreet Mohaar, Sean Murphy, Johannes Günther†, Laura Petrich,and Talat Syed. 2023. **Multi-Robot Warehouse Optimization: Leveraging Machine Learning for Improved Performance.** *InProc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems* (AAMAS2023), London, United Kingdom, May 29 – June 2, 2023, IFAAMAS, 3 pages
+- Cairo M., Doerksen G., Eldaphonse B., Günther J., Kummer N., Maretzki J., Mohaar G., Mousavi P., Murphy S., Petrich L., Sahir, Sheikh J., Syed T.,and Taylor M. E., (2023). **Multi-Robot Warehouse Optimization: Leveraging Machine Learning for Improved Performance.** *InProc. of the 22nd International Conference on Autonomous Agents and Multiagent Systems* (AAMAS2023), London, United Kingdom, May 29 – June 2, 2023, IFAAMAS, 3 pages
 - Doerksen, G., Ziade, P., Korobenko, A ., & Johansen, C. (2022). **A Numerical Investigation of Recirculation in Axisymmetric Confined Jets.** *In Chemical Engineering Science.*
 - Hill C., Doerksen, G., Quinn, D., & Johansen, C. (2021). **Development of a Paraffin/Nitrous Oxide Hybrid Rocket Motor for Flight-based Testing.** *In International Journal of Energetic Materials and Chemical Propulsion.*
 - Messinger, T., Hill, C., Quinn, D., Stannard, D., Doerksen, G., & Johansen, C. (2019). **Development and Test Flight of The Atlantis I Nitrous Oxide/Paraffin-based Hybrid Rocket.** *In AIAA Propulsion and Energy 2019 Forum* (p. 4011).
